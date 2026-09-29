@@ -1,0 +1,6 @@
+{
+  "name": "Wordy Kids",
+  "description": "Fun interactive word puzzle game for kids featuring animals, transportation, flags, and more with cheerful sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
